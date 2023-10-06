@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.buttons {
+    margin: 10px 0 10px 0;
+}
+
+.info-card {
+    max-width: 280px;
+    max-height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 0 0 20px;
+}
+
+.users {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    margin: 20px;
+}
